@@ -1,11 +1,11 @@
-# Puppy Lab
+# OO Puppy Lab
 
 ## Learning Goals
 
 - Use a class variable to keep track of every instance of a class that is
-  created.
+  created
 - Write a class method to access the list of all instances of a class, stored in
-  a class variable.
+  a class variable
 
 ## Introduction
 
